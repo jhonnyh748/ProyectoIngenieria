@@ -1,0 +1,97 @@
+SOLVEEEE Seleccion: 24 Generacion: 0
+CONCLUIDO: false
+BIRDS: 1
+El archivo está vacío poblacionInicial
+SIZE POBLACION 1
+Lanzamiento: -15, 19, 2500
+SHOT: Shoot from: (155  355 ) at time  0
+Shooting Completed
+ENDSOLVEEEE: LOST
+ Game score is unavailable 
+SCORE LOST: -1
+Restart
+ restart the level 
+Zooming out
+SOLVEEEE Seleccion: 24 Generacion: 0
+CONCLUIDO: false
+BIRDS: 4
+El archivo está vacío poblacionInicial
+CREANDO GENERACION
+generacion 1
+CACULAR MEJORES: 16
+ALEATORIOS: [I@58b5d5fc
+DISTRUBUCION: Mejores 16 Aleatorios [I@58b5d5fc
+Repoducir_Mutar [[genetic.resources.Cromosoma@7591cbd1, genetic.resources.Cromosoma@5cdc8499, genetic.resources.Cromosoma@2a30b0cb, genetic.resources.Cromosoma@73d7d676], [genetic.resources.Cromosoma@8e3449e, genetic.resources.Cromosoma@3023f157, genetic.resources.Cromosoma@1f3aa970, genetic.resources.Cromosoma@5213b887], [genetic.resources.Cromosoma@40c6d1ef, genetic.resources.Cromosoma@6f4029e9, genetic.resources.Cromosoma@257b6c58, genetic.resources.Cromosoma@6ae32ff0]]
+RESPUESTA: -35,18,1800 -19,11,1150 -23,22,1700 -16,27,1050 
+-33,17,100 -26,10,100 -30,33,100 -10,24,159 
+-35,17,100 -15,13,100 -14,10,206 -22,33,100 
+
+Repoducir_Mutar [[genetic.resources.Cromosoma@1c5cd2ea, genetic.resources.Cromosoma@72bdbfe9, genetic.resources.Cromosoma@cda144a, genetic.resources.Cromosoma@7fb5368e], [genetic.resources.Cromosoma@5847010, genetic.resources.Cromosoma@1ad9d5be, genetic.resources.Cromosoma@46fdfaeb, genetic.resources.Cromosoma@102aa5fc], [genetic.resources.Cromosoma@36885319, genetic.resources.Cromosoma@62a81453, genetic.resources.Cromosoma@4bab804f, genetic.resources.Cromosoma@eebd983]]
+RESPUESTA: -20,17,1800 -19,15,900 -14,23,1500 -18,27,1300 
+-29,14,100 -23,12,100 -16,25,100 -27,29,100 
+-14,23,195 -13,17,100 -10,25,121 -13,23,100 
+
+Repoducir_Mutar [[genetic.resources.Cromosoma@7a0f43dc, genetic.resources.Cromosoma@58a7ca42, genetic.resources.Cromosoma@4f9980e1, genetic.resources.Cromosoma@1f6e6f50], [genetic.resources.Cromosoma@1f7fcec2, genetic.resources.Cromosoma@796cf2b5, genetic.resources.Cromosoma@7a71ebf1, genetic.resources.Cromosoma@16890f00], [genetic.resources.Cromosoma@77e1dacd, genetic.resources.Cromosoma@690677de, genetic.resources.Cromosoma@1c5d376c, genetic.resources.Cromosoma@42f2cae8]]
+RESPUESTA: -32,21,2400 -27,17,1100 -27,20,1150 -15,15,2350 
+-34,18,100 -27,14,100 -28,26,100 -11,15,176 
+-31,26,100 -27,20,100 -29,17,100 -21,13,100 
+
+Repoducir_Mutar [[genetic.resources.Cromosoma@3bbc47c9, genetic.resources.Cromosoma@615e7fe7, genetic.resources.Cromosoma@144dc2f7, genetic.resources.Cromosoma@403cff1c], [genetic.resources.Cromosoma@19677add, genetic.resources.Cromosoma@b548f51, genetic.resources.Cromosoma@71f4aeb6, genetic.resources.Cromosoma@56976b8b], [genetic.resources.Cromosoma@74844216, genetic.resources.Cromosoma@5b0575d0, genetic.resources.Cromosoma@fd0e118, genetic.resources.Cromosoma@62f6185a]]
+RESPUESTA: -25,19,2200 -26,23,1300 -18,24,950 -25,12,1800 
+-26,13,119 -25,27,126 -26,16,181 -26,13,100 
+-27,23,100 -28,20,100 -12,33,100 -24,13,100 
+
+Repoducir_Mutar [[genetic.resources.Cromosoma@34b462e0, genetic.resources.Cromosoma@446f3a53, genetic.resources.Cromosoma@4c3fcbe7, genetic.resources.Cromosoma@1e592ef2], [genetic.resources.Cromosoma@96dfcbb, genetic.resources.Cromosoma@34ede267, genetic.resources.Cromosoma@6bf77ee, genetic.resources.Cromosoma@51c6e775], [genetic.resources.Cromosoma@372841d2, genetic.resources.Cromosoma@6c8d638a, genetic.resources.Cromosoma@117069f2, genetic.resources.Cromosoma@77ebc9e6]]
+RESPUESTA: -17,12,1550 -28,19,2650 -26,22,2000 -26,12,1350 
+-18,16,167 -27,17,100 -28,16,100 -21,14,100 
+-17,10,100 -27,18,184 -26,26,174 -30,12,129 
+
+Repoducir_Mutar [[genetic.resources.Cromosoma@2b82018, genetic.resources.Cromosoma@52e92f6, genetic.resources.Cromosoma@17034458, genetic.resources.Cromosoma@3e0e0ba7], [genetic.resources.Cromosoma@7df5549e, genetic.resources.Cromosoma@cbdc0f4, genetic.resources.Cromosoma@11174bf, genetic.resources.Cromosoma@4f0c1409], [genetic.resources.Cromosoma@188ae8d2, genetic.resources.Cromosoma@7a522157, genetic.resources.Cromosoma@706c062e, genetic.resources.Cromosoma@5feff876]]
+RESPUESTA: -16,20,900 -25,29,1550 -14,21,1300 -29,27,1100 
+-23,31,136 -24,30,109 -11,19,100 -35,21,100 
+-10,11,122 -26,27,100 -14,26,100 -24,34,100 
+
+Repoducir_Mutar [[genetic.resources.Cromosoma@10ec4721, genetic.resources.Cromosoma@7bdf94f2, genetic.resources.Cromosoma@6b92a0d1, genetic.resources.Cromosoma@4b9ed99d], [genetic.resources.Cromosoma@39b95a80, genetic.resources.Cromosoma@3ec62141, genetic.resources.Cromosoma@402c9a60, genetic.resources.Cromosoma@7d43f1c9], [genetic.resources.Cromosoma@eddc9bb, genetic.resources.Cromosoma@11e3d08, genetic.resources.Cromosoma@25c548d1, genetic.resources.Cromosoma@476a2819]]
+RESPUESTA: -30,16,2050 -26,23,2150 -21,23,1800 -20,16,1500 
+-34,12,201 -30,10,100 -12,22,100 -12,15,100 
+-28,22,100 -21,35,109 -29,28,100 -30,19,100 
+
+Repoducir_Mutar [[genetic.resources.Cromosoma@279ab15e, genetic.resources.Cromosoma@571c2ed8, genetic.resources.Cromosoma@5810772a, genetic.resources.Cromosoma@4eacb6d1], [genetic.resources.Cromosoma@3ccefe1b, genetic.resources.Cromosoma@a926db4, genetic.resources.Cromosoma@51e0f2eb, genetic.resources.Cromosoma@7a51dc38], [genetic.resources.Cromosoma@31a4db4f, genetic.resources.Cromosoma@2842ef02, genetic.resources.Cromosoma@7e63374b, genetic.resources.Cromosoma@aa794a3]]
+RESPUESTA: -24,27,1050 -23,23,1600 -27,18,1450 -22,31,1600 
+-23,28,100 -27,29,152 -27,26,150 -35,35,182 
+-29,29,153 -20,17,100 -29,11,100 -11,26,100 
+
+Repoducir_Mutar [[genetic.resources.Cromosoma@1dce481b, genetic.resources.Cromosoma@22cb8e5f, genetic.resources.Cromosoma@45753c22, genetic.resources.Cromosoma@7341baa3], [genetic.resources.Cromosoma@1ca0aa40, genetic.resources.Cromosoma@626766fd, genetic.resources.Cromosoma@e1fd2bf, genetic.resources.Cromosoma@70f5f57d], [genetic.resources.Cromosoma@691eb389, genetic.resources.Cromosoma@301770d9, genetic.resources.Cromosoma@40edc64e, genetic.resources.Cromosoma@1fec9d33]]
+RESPUESTA: -23,29,1100 -22,15,1550 -22,19,1650 -31,25,150 
+-27,26,100 -18,12,191 -15,18,126 -26,29,100 
+-19,36,100 -30,21,171 -32,23,101 -32,21,100 
+
+Repoducir_Mutar [[genetic.resources.Cromosoma@372f7bc, genetic.resources.Cromosoma@8e8ceb3, genetic.resources.Cromosoma@2699b656, genetic.resources.Cromosoma@5d67b2b3], [genetic.resources.Cromosoma@49bc71b4, genetic.resources.Cromosoma@7efa366, genetic.resources.Cromosoma@6c2f8ecb, genetic.resources.Cromosoma@c3d4bd7], [genetic.resources.Cromosoma@2626aa35, genetic.resources.Cromosoma@5ca8c904, genetic.resources.Cromosoma@4c614d8c, genetic.resources.Cromosoma@2ae4c424]]
+RESPUESTA: -25,28,1350 -20,16,1400 -22,17,1700 -27,24,1250 
+-20,35,100 -30,20,100 -32,19,100 -34,18,169 
+-28,23,189 -14,14,100 -17,14,100 -21,29,157 
+
+Repoducir_Mutar [[genetic.resources.Cromosoma@3980b44f, genetic.resources.Cromosoma@237aba92, genetic.resources.Cromosoma@65b19e5c, genetic.resources.Cromosoma@6978a32a], [genetic.resources.Cromosoma@55665086, genetic.resources.Cromosoma@233ece92, genetic.resources.Cromosoma@4a14f7d7, genetic.resources.Cromosoma@66596c4c], [genetic.resources.Cromosoma@15ce261, genetic.resources.Cromosoma@54c3e686, genetic.resources.Cromosoma@39840986, genetic.resources.Cromosoma@141229f6]]
+RESPUESTA: -24,27,1650 -14,19,400 -25,14,1200 -20,20,1450 
+-32,21,220 -15,15,149 -13,13,100 -21,31,100 
+-18,33,100 -14,24,100 -35,16,100 -19,12,100 
+
+Repoducir_Mutar [[genetic.resources.Cromosoma@723b8eff, genetic.resources.Cromosoma@3987a1e8, genetic.resources.Cromosoma@20d65767, genetic.resources.Cromosoma@250e8712], [genetic.resources.Cromosoma@becb93a, genetic.resources.Cromosoma@f60c14e, genetic.resources.Cromosoma@1d1fd2aa, genetic.resources.Cromosoma@4c78e00c], [genetic.resources.Cromosoma@22b3b5d0, genetic.resources.Cromosoma@2b506a79, genetic.resources.Cromosoma@48b9773b, genetic.resources.Cromosoma@43ca96a0]]
+RESPUESTA: -19,21,1600 -19,19,950 -34,13,500 -18,12,1550 
+-21,33,100 -18,23,100 -33,15,214 -19,11,127 
+-21,10,100 -20,15,100 -32,12,100 -16,12,100 
+
+Repoducir_Mutar [[genetic.resources.Cromosoma@7c68a63c, genetic.resources.Cromosoma@5443086a, genetic.resources.Cromosoma@5740ad76, genetic.resources.Cromosoma@40a84ea8], [genetic.resources.Cromosoma@79c849c7, genetic.resources.Cromosoma@35840ecc, genetic.resources.Cromosoma@67fd2e17, genetic.resources.Cromosoma@65a2e14e], [genetic.resources.Cromosoma@5e9f1a4c, genetic.resources.Cromosoma@4bf89d3d, genetic.resources.Cromosoma@457b8fc3, genetic.resources.Cromosoma@37a1beb3]]
+RESPUESTA: -19,21,1600 -19,19,950 -34,13,500 -18,12,1550 
+-18,10,100 -24,14,100 -33,12,100 -15,15,181 
+-21,32,100 -18,25,100 -35,16,185 -19,11,100 
+
+Repoducir_Mutar [[genetic.resources.Cromosoma@11ca8f71, genetic.resources.Cromosoma@1e54e900, genetic.resources.Cromosoma@7c8689e, genetic.resources.Cromosoma@3da61af2], [genetic.resources.Cromosoma@7852ab30, genetic.resources.Cromosoma@417751d3, genetic.resources.Cromosoma@5bf4dfb, genetic.resources.Cromosoma@8c3b634], [genetic.resources.Cromosoma@65259737, genetic.resources.Cromosoma@1e27bb89, genetic.resources.Cromosoma@6108fd23, genetic.resources.Cromosoma@746f8520]]
+RESPUESTA: -26,23,1750 -13,27,1700 -31,17,1200 -15,11,1050 
+-21,35,100 -16,22,100 -33,17,100 -19,12,117 
+-32,13,100 -12,29,100 -26,20,100 -10,11,100 
+
+Repoducir_Mutar [[genetic.resources.Cromosoma@3d3a28b5, genetic.resources.Cromosoma@1ee22768, genetic.resources.Cromosoma@38a52072, genetic.resources.Cromosoma@306bf4c3], [genetic.resources.Cromosoma@5cf80dfb, genetic.resources.Cromosoma@532ea86b, genetic.resources.Cromosoma@4219a4cc, genetic.resources.Cromosoma@2dbb8da0], [genetic.resources.Cromosoma@3130ca39, genetic.resources.Cromosoma@17fb5184, genetic.resources.Cromosoma@184bb873, genetic.resources.Cromosoma@696ce057]]
+RESPUESTA: -23,13,1400 -17,23,2250 -19,24,1750 -14,15,850 
+-32,15,100 -13,32,100 -28,19,100 -11,10,208 
+-16,16,100 -24,18,100 -10,31,100 -17,19,179 
